@@ -1,0 +1,10 @@
+{
+  "dev": {},
+  "bsctest": {
+    "Floppy": "0xF22Abe13C6C20417A578A25de9C7029e1f20702d",
+    "Vault": "0x8C38e0293e77dA5724C58CE201CFd48490762eF6",
+    "USDT": "0x61878236A27eee6beb0eb33B64c938FF0D22c4ef",
+    "ico": "0xa451604AcAB2F44b0A37DF39cE4774d7a45F35E9"
+  },
+  "main": {}
+}
